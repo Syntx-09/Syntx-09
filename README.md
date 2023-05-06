@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syntx-09
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning python, Javascript 
+- 🌱 I’m currently learning python, Javascript, PHP 
 - 💞️ I’m looking to collaborate on open-source projects for fun
 - 📫 How to reach me ...
 
